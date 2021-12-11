@@ -3,8 +3,9 @@
 My name is Yashraj Pahwa, I am passionate about learning new technologies so as to use them in my projects.
 
 - 👉 I am a fullstack developer.
-- ⭐️ I primarily develop in ReactJS as the frontend & NodeJS or Go as the backend.
-- 🌱 I am currently learning GraphQL & AI in Python.
+- 👨🏼‍💻 Attended <b>3 seasons</b> (Feb - March 2018 & 2019 & October 2019) of <b>Robotryst - IIT Delhi</b>.
+- ⭐️ I primarily develop in NextJS as the frontend & NodeJS or Go as the backend.
+- 🌱 I am currently learning GraphQL in NodeJS.
 - 😄 I love developing SaaS applications!
 - ⚡️ Fun Fact - I'm still in High School!!
 
