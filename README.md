@@ -22,4 +22,11 @@ My name is Yashraj Pahwa, I am passionate about learning new technologies so as 
       <a/>
     </td>
    </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/yashrajpahwa">
+        <img src="https://github-profile-trophy.vercel.app/?username=yashrajpahwa&theme=tokyonight&margin-w=15&theme=dark_dimmed&row=1">
+      <a/>
+    </td>
+  </tr>
 </table>
