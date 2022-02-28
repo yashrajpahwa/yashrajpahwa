@@ -1,4 +1,4 @@
-# Hello There 👋🏼
+<!-- # Hello There 👋🏼
 
 My name is Yashraj Pahwa, I am passionate about learning new technologies so as to use them in my projects.
 
@@ -7,9 +7,11 @@ My name is Yashraj Pahwa, I am passionate about learning new technologies so as 
 - ⭐️ I primarily develop in NextJS as the frontend & NodeJS or Go as the backend.
 - 🌱 I am currently learning GraphQL in NodeJS.
 - 😄 I love developing SaaS applications!
-- ⚡️ Fun Fact - I'm still in High School!!
+- ⚡️ Fun Fact - I'm still in High School!! -->
 
-<table align="center" cellspacing="0" cellpadding="0" border="0">
+![Metrics](/github-metrics.svg)
+
+<!-- <table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td>
       <a href="https://github.com/yashrajpahwa">
@@ -29,4 +31,4 @@ My name is Yashraj Pahwa, I am passionate about learning new technologies so as 
       <a/>
     </td>
   </tr>
-</table>
+</table> -->
