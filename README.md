@@ -1,15 +1,24 @@
-<!-- # Hello There 👋🏼
-
-My name is Yashraj Pahwa, I am passionate about learning new technologies so as to use them in my projects.
-
-- 👉 I am a fullstack developer.
-- 👨🏼‍💻 Attended <b>3 seasons</b> (Feb - March 2018 & 2019 & October 2019) of <b>Robotryst - IIT Delhi</b>.
-- ⭐️ I primarily develop in NextJS as the frontend & NodeJS or Go as the backend.
-- 🌱 I am currently learning GraphQL in NodeJS.
-- 😄 I love developing SaaS applications!
-- ⚡️ Fun Fact - I'm still in High School!! -->
+## Hello There 👋
 
 ![Metrics](/github-metrics.svg)
+
+### Some more stats...
+
+![readme-stats](https://github-readme-stats.vercel.app/api?username=yashrajpahwa&show_icons=true&hide=&count_private=true&title_color=0366D6&text_color=ffffff&icon_color=0366D6&bg_color=171717&hide_border=true&show_icons=true)
+
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=yashrajpahwa&stroke=ffffff&background=171717&ring=0366d6&fire=0366d6&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+### Some Metadata
+
+- ⌗ My name is Yashraj Pahwa
+- 👉 A fullstack developer.
+- 👨🏼‍💻 Attended **3 seasons** (Feb - March 2018 & 2019 & October 2019) of **Robotryst@IIT Delhi**.
+- ⭐️ Primarily developing in NextJS as the frontend & NodeJS or Go as the backend.
+- 🌱 Currently learning GraphQL in NodeJS.
+- 😄 Love developing SaaS products!
+- ⚡️ Fun Fact - I'm still in High School!!
+- 💬 Open to collaborations.
+- ✉️ Reach out to me <a href="mailto:yashrajpahwa@gmail.com">here</a>.
 
 ### Skills
 <p align="left">
@@ -38,25 +47,3 @@ My name is Yashraj Pahwa, I am passionate about learning new technologies so as 
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
-<!-- <table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/yashrajpahwa">
-        <img src="https://github-readme-stats.vercel.app/api?username=yashrajpahwa&show_icons=true&include_all_commits=true&theme=tokyonight">
-      <a/>
-    </td>
-    <td>
-      <a href="https://github.com/yashrajpahwa">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrajpahwa&layout=compact&theme=tokyonight">
-      <a/>
-    </td>
-   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://github.com/yashrajpahwa">
-        <img src="https://github-profile-trophy.vercel.app/?username=yashrajpahwa&theme=tokyonight&margin-w=15&theme=dark_dimmed&row=1">
-      <a/>
-    </td>
-  </tr>
-</table> -->
