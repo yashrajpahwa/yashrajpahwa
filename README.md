@@ -6,7 +6,7 @@
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=yashrajpahwa&show_icons=true&hide=&count_private=true&title_color=0366D6&text_color=ffffff&icon_color=0366D6&bg_color=171717&hide_border=true&show_icons=true)
 
-![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=yashrajpahwa&stroke=ffffff&background=171717&ring=0366d6&fire=0366d6&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=yashrajpahwa&stroke=ffffff&background=171717&ring=0366d6&fire=0366d6&currStreakNum=ffffff&currStreakLabel=0366d6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 ### Some Metadata
 
