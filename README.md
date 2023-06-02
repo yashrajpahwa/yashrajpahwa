@@ -1,26 +1,16 @@
 ## Hello There 👋
 
-![Metrics](/github-metrics.svg)
+### About Me.
 
-### Some more stats...
+Greetings, my name is Yashraj. I am a technologist with a passion for interdisciplinary and cutting-edge projects. My fascination with gadgets began at an early age, but it was not until my participation in the Robotryst Festival at IIT Delhi in 2018 that I truly discovered my love for computing. Despite being a high school student, I have continued to learn and explore the ever-evolving world of technology.
 
-![readme-stats](https://github-readme-stats.vercel.app/api?username=yashrajpahwa&show_icons=true&hide=&count_private=true&title_color=0366D6&text_color=ffffff&icon_color=0366D6&bg_color=171717&hide_border=true&show_icons=true)
+### Some Statistics.
+
+<!-- ![readme-stats](https://github-readme-stats.vercel.app/api?username=yashrajpahwa&show_icons=true&hide=&count_private=true&title_color=0366D6&text_color=ffffff&icon_color=0366D6&bg_color=171717&hide_border=true&show_icons=true) -->
 
 ![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=yashrajpahwa&stroke=ffffff&background=171717&ring=0366d6&fire=0366d6&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
-### Some Metadata
-
-- ⌗ My name is Yashraj Pahwa
-- 👉 A fullstack developer.
-- 👨🏼‍💻 Attended **3 seasons** (Feb - March 2018 & 2019 & October 2019) of **Robotryst@IIT Delhi**.
-- ⭐️ Primarily developing in NextJS as the frontend & NodeJS or Go as the backend.
-- 🌱 Currently learning GraphQL in NodeJS.
-- 😄 Love developing SaaS products!
-- ⚡️ Fun Fact - I'm still in High School!!
-- 💬 Open to collaborations.
-- ✉️ Reach out to me <a href="mailto:yashrajpahwa@gmail.com">here</a>.
-
-### Skills
+### My Skills.
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
