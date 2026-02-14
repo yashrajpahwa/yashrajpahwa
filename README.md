@@ -1,7 +1,4 @@
-### 👋 Hello World!
-
-- I am a technologist with a strong inclination for product and strategy.
-- In my free time, I enjoy spending time with people who are much more knowledgeable than I am.
+- I am passionate about staying at the forefront of emerging technologies to drive tangible value creation. Currently, I am deepening my mastery of computer science fundamentals while exploring the frontier of agentic AI to identify new opportunities for innovation and impact.
 
 ### 💻 Tech Stack:
 - Languages: 
