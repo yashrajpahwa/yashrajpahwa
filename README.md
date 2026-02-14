@@ -1,4 +1,4 @@
-- I am passionate about staying at the forefront of emerging technologies to drive tangible value creation. Currently, I am deepening my mastery of computer science fundamentals while exploring the frontier of agentic AI to identify new opportunities for innovation and impact.
+I am passionate about staying at the forefront of emerging technologies to drive tangible value creation. Currently, I am deepening my mastery of computer science fundamentals while exploring the frontier of agentic AI to identify new opportunities for innovation and impact.
 
 ### 💻 Tech Stack:
 - Languages: 
